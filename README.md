@@ -1,1 +1,9 @@
-# esm206-lab4-part2-yp
+# My awesome readme!
+
+- Some
+- Bullet
+- POints
+
+And other **useful information!**
+
+*Yay*
