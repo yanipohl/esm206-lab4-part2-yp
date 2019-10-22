@@ -1,0 +1,17 @@
+---
+title: "interactive_graph_examples"
+author: "Yani Pohl"
+date: "10/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here we will practice creative interactive graphs and tables using built in dataset in R packages 
+
+- Interactive plots: {plotly}
+- Interactive tables: {DT}
+
+
